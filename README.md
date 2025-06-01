@@ -35,10 +35,10 @@ This section provides structured learning materials to help you **understand Kub
 ### 📖 **Fundamental Concepts**  
 
 1️⃣ [**Kubernetes for Everyone**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/learning/kubernetes-for-everyone/README.md)  
-2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/What-is-Pod-in-Kubernetes/README.md)  
-3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Deploying-an-Application-on-Kubernetes/README.md)  
-4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
-5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
+2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/What-is-Pod-in-Kubernetes/README.md)  
+3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/Deploying-an-Application-on-Kubernetes/README.md)  
+4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
+5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
 
 ✨ **More learning materials will be added soon!**  
 
@@ -50,10 +50,10 @@ This section contains **hands-on projects** that simulate real-world Kubernetes 
 
 ### 🚀 **Project List**  
 
-1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/10-microservices-deployment-eks/README.md)  
-2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Deploying-Spring-Boot-K8S/README.md)  
-3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Uber-Clone-DevSecOps/README.md)  
-4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/projects/Kubernetes-Using-Jenkins/README.md)  
+1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/10-microservices-deployment-eks/README.md)  
+2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Deploying-Spring-Boot-K8S/README.md)  
+3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Uber-Clone-DevSecOps/README.md)  
+4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Kubernetes-Using-Jenkins/README.md)  
 
 ✨ **More projects coming soon!**  
 
@@ -165,7 +165,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by **[Harshhaa](https://github.com/goswami800)** 💡.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 ---
