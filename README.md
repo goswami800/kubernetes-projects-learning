@@ -34,7 +34,7 @@ This section provides structured learning materials to help you **understand Kub
 
 ### 📖 **Fundamental Concepts**  
 
-1️⃣ [**Kubernetes for Everyone**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/kubernetes-for-everyone/README.md)  
+1️⃣ [**Kubernetes for Everyone**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/learning/kubernetes-for-everyone/README.md)  
 2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/What-is-Pod-in-Kubernetes/README.md)  
 3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Deploying-an-Application-on-Kubernetes/README.md)  
 4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/NotHarshhaa/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
