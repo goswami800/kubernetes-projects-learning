@@ -165,7 +165,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by **[Harshhaa](https://github.com/goswami800)** 💡.  
+This project is crafted by **[Amogh Goswami](https://github.com/goswami800)** 💡.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 ---
