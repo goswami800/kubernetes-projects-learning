@@ -22,7 +22,7 @@ To get started, you need to:
 ✅ Install the **Kubernetes CLI (`kubectl`)**.  
 ✅ Set up a **Kubernetes cluster** in your local or cloud environment.  
 
-➡️ **Follow this guide to set up your environment:** [**Kubernetes CLI & Cluster Setup**](https://gist.github.com/NotHarshhaa/854ed5c12fff07acde88faf95b9decff)  
+➡️ **Follow this guide to set up your environment:** [**Kubernetes CLI & Cluster Setup**](https://github.com/goswami800/goswami800/blob/main/k8s-install.md)  
 
 💡 *Make sure to enable bash completion for `kubectl` to improve your experience!*  
 
