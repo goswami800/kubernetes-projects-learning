@@ -37,7 +37,7 @@ This section provides structured learning materials to help you **understand Kub
 2️⃣ [**What is a Pod in Kubernetes?**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/learning/What-is-Pod-in-Kubernetes/README.md)  
 3️⃣ [**Deploying an Application on Kubernetes: A Complete Guide!**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/learning/Deploying-an-Application-on-Kubernetes/README.md)  
 4️⃣ [**Kubernetes – Architecture and Main Components Overview**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/Kubernetes-components-overview/README.md)  
-5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/goswami800/kubernetes-projects/blob/master/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
+5️⃣ [**How to Deploy DaemonSets Service in Kubernetes?**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/learning/Deploy-DaemonSets-Service-in-Kubernetes/README.md)  
 
 ✨ **More learning materials will be added soon!**  
 
