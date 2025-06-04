@@ -49,10 +49,10 @@ This section contains **hands-on projects** that simulate real-world Kubernetes 
 
 ### 🚀 **Project List**  
 
-1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/10-microservices-deployment-eks/README.md)  
-2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Deploying-Spring-Boot-K8S/README.md)  
-3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Uber-Clone-DevSecOps/README.md)  
-4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/goswami800/kubernetes-projects/blob/master/projects/Kubernetes-Using-Jenkins/README.md)  
+1️⃣ [**Designing a 10-Microservices Application Deployment on EKS**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/projects/10-microservices-deployment-eks/README.md)  
+2️⃣ [**Deploying a Spring Boot Application on Kubernetes**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/projects/Deploying-Spring-Boot-K8S/README.md)  
+3️⃣ [**Uber Clone DevSecOps CI/CD Kubernetes Project**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/projects/Uber-Clone-DevSecOps/README.md)  
+4️⃣ [**Deploy to Kubernetes Using Jenkins – End-to-End CI/CD Project**](https://github.com/goswami800/kubernetes-projects-learning/blob/main/projects/Kubernetes-Using-Jenkins/README.md)  
 
 ✨ **More projects coming soon!**  
 
